@@ -1,0 +1,7 @@
+name = "verifiedonchain"
+compatibility_date = "2025-12-14"
+
+# Déploiement de site statique
+[site]
+bucket = "./dist"
+entry-point = "workers-site"
