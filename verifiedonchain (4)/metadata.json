@@ -1,0 +1,5 @@
+{
+  "name": "VerifiedOnChain",
+  "description": "A public, searchable, real-time dashboard of verified crypto wallets across BTC, ETH, SOL, and BNB chains.",
+  "requestFramePermissions": []
+}
